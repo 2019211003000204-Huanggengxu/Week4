@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="2019211003000204Huanggengxu" />
+        <module name="Huanggengxu2019211003000204" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="2019211003000204Huanggengxu" target="1.8" />
+      <module name="Huanggengxu2019211003000204" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
